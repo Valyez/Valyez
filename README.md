@@ -6,7 +6,7 @@ Java Developer
 
 I''ve been learning to code for 1 year, after a switch career. During this time, I created a pet-project analogous tweeter on Java lang.
 
-* 🌍  I'm based in Russia Krasnouarsk
+* 🌍  I'm based in Russia Krasnoyarsk
 * ✉️  You can contact me at [podlipaev115@mail.ru](mailto:podlipaev115@mail.ru )
 
 ### Skills
