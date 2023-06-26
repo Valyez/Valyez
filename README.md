@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I''ve been learning to code for 1 year, after a switch career. During this time, I created a pet-project analogous to the tweeter on Java
+I''ve been learning to code for 1 year, after a switch career. During this time, I created a pet-project analogous tweeter on Java lang.
 
 * 🌍  I'm based in Russia Krasnouarsk
 * ✉️  You can contact me at [podlipaev115@mail.ru](mailto:podlipaev115@mail.ru )
