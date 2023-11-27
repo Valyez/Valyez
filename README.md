@@ -23,3 +23,7 @@ I''ve been learning to code for 1 year, after a switch career.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Valyez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### LeetCode Solved Problems
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Valyez&theme=dark)]([[https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/Valyez/))
