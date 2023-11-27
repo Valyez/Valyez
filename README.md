@@ -7,7 +7,7 @@ Java Developer
 I''ve been learning to code for 1 year, after a switch career.
 
 * 🌍  I'm based in Russia Krasnoyarsk
-* ✉️  You can contact me at [podlipaev115@mail.ru](mailto:podlipaev115@mail.ru )
+* ✉️  You can contact me at [Wrk-podlipaev@mail.ru](mailto:wrk-podlipaev@mail.ru )
 
 ### Skills
 
