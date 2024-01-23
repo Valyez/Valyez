@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I''ve been learning to code for 1 year, after a switch career.
+I''ve been learning to code for 1.5 year, after a switch career.
 
 * 🌍  I'm based in Russia Krasnoyarsk
 * ✉️  You can contact me at [Wrk-podlipaev@mail.ru](mailto:wrk-podlipaev@mail.ru )
